@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>20200226_162536.jpg</filename>
+	<path>D:\Images\20200226_162536.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hexaframe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>253</ymin>
+			<xmax>2688</xmax>
+			<ymax>2950</ymax>
+		</bndbox>
+	</object>
+</annotation>
